@@ -1,10 +1,10 @@
-162.159.160.200:443#德国Frankfurt 15.88MB/s
-104.18.159.241:443#美国Los Angeles 13.74MB/s
-104.25.176.75:443#美国Los Angeles 13.58MB/s
-104.17.158.61:443#美国San Jose 12.89MB/s
-104.16.11.52:443#美国Los Angeles 12.43MB/s
-104.20.2.50:443#美国Los Angeles 12.21MB/s
-104.16.189.253:443#美国Los Angeles 11.71MB/s
-104.19.87.178:443#美国Los Angeles 11.58MB/s
-104.24.207.234:443#美国Los Angeles 11.17MB/s
-104.18.254.3:443#美国Los Angeles 11.13MB/s
+162.159.160.200:443#德国Frankfurt 18.10MB/s
+104.24.33.151:443#美国Los Angeles 13.53MB/s
+162.159.237.202:443#美国San Jose 13.46MB/s
+104.27.22.82:443#美国Los Angeles 12.76MB/s
+104.16.207.41:443#美国Los Angeles 12.67MB/s
+104.27.24.132:443#美国Los Angeles 12.07MB/s
+104.19.248.41:443#美国Los Angeles 11.56MB/s
+104.18.50.202:443#美国Los Angeles 11.43MB/s
+104.17.140.73:443#美国San Jose 11.26MB/s
+104.17.57.62:443#美国Los Angeles 11.22MB/s
